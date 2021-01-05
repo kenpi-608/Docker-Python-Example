@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
+jupyterlab
+jupyterlab_code_formatter
